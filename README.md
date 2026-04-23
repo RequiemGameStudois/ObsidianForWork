@@ -1,0 +1,2 @@
+# ObsidianForWork
+CodeName_MARISHKA
