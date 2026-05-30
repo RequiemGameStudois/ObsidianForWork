@@ -8,13 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbd776877c6fcf86",
+            "id": "74234e7f7cc4ba88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "Общие/Ассеты/Ассеты К..canvas",
+                "viewState": {
+                  "x": -4241.882019133942,
+                  "y": 3050.826863553013,
+                  "zoom": -3.6084406542787995
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ассеты К."
             }
           }
         ]
@@ -74,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7981b9102df01fcd",
@@ -157,6 +164,16 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "2ffaf9ad11c45542",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -173,9 +190,37 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fbd776877c6fcf86",
-  "lastOpenFiles": []
+  "active": "74234e7f7cc4ba88",
+  "lastOpenFiles": [
+    "ARMY",
+    "MARI",
+    "Общие",
+    "Без названия.canvas",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "Untitled Kanban.md",
+    "WorkAMRYandR34MARISHKA/Без названия.base",
+    "WorkAMRYandR34MARISHKA/Добро пожаловать и идите нахуй.md",
+    "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
+    "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
+    "Общие/Ассеты/Изображения/e16e6a57-d277-4cd0-a978-f1e19396aa2b.webp",
+    "Общие/Ассеты/Изображения/dc88c9b3-524d-4212-8702-464982c07d91.webp",
+    "Общие/Ассеты/Изображения/d5139344-ec35-4ff6-9a1c-7170e2c120e5.webp",
+    "Общие/Ассеты/Изображения/ceebd85a-1b91-409d-9364-05463377be25.webp",
+    "Общие/Ассеты/Изображения/c76a6233-ab9e-4832-a867-eb78799e1320.webp",
+    "Общие/Ассеты/Изображения/bf4b4b8c-d600-4342-a32d-84c42b4004ba.webp",
+    "Общие/Ассеты/Изображения/c5f44ab6-7ad2-441a-bfe6-dd56a4d38b13 1.webp",
+    "Общие/Ассеты/Изображения/c2472e73-161e-49b1-83d8-7eec7d3f794f.webp",
+    "Excalidraw/Ассеты.md",
+    "Общие/Ассеты/Изображения",
+    "Общие/Ассеты",
+    "Excalidraw/Drawing 2026-05-30 13.56.42.excalidraw.md",
+    "Ассеты.base",
+    "Excalidraw"
+  ]
 }
