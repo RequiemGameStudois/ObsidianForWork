@@ -11,28 +11,16 @@
             "id": "07a5a61e8245377d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "343672307e08cf13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Добро пожаловать и идите нахуй.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Добро пожаловать и идите нахуй"
+              "icon": "lucide-table",
+              "title": "Без названия"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Без названия.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -165,15 +154,29 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Без названия.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Без названия"
+            }
+          },
+          {
+            "id": "0001437b4727d710",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Без названия.base"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,12 +192,19 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "audio-recorder:Начать/остановить запись": false
+      "audio-recorder:Начать/остановить запись": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "343672307e08cf13",
+  "active": "07a5a61e8245377d",
   "lastOpenFiles": [
+    "Добро пожаловать и идите нахуй.md",
+    "Без названия.canvas",
+    "Без названия 1.base",
     "Без названия.base",
-    "Добро пожаловать и идите нахуй.md"
+    "Без названия.md"
   ]
 }
