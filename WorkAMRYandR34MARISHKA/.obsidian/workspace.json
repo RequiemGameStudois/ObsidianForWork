@@ -11,13 +11,14 @@
             "id": "07a5a61e8245377d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.base",
-                "viewName": "Таблица"
+                "file": "Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "Drawing 2026-06-19 16.38.32.excalidraw"
             }
           }
         ]
@@ -171,8 +172,8 @@
               "state": {
                 "file": "Без названия.base"
               },
-              "icon": "lucide-file-signature",
-              "title": "Сноски"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
             }
           }
         ],
@@ -192,19 +193,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "audio-recorder:Начать/остановить запись": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
-      "omnisearch:Omnisearch": false
+      "audio-recorder:Начать/остановить запись": false
     }
   },
   "active": "07a5a61e8245377d",
   "lastOpenFiles": [
+    "Без названия.base",
+    "Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
     "Добро пожаловать и идите нахуй.md",
     "Без названия.canvas",
     "Без названия 1.base",
-    "Без названия.base",
     "Без названия.md"
   ]
 }
