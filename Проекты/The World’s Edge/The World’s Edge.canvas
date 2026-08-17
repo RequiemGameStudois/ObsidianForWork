@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6bb20320b070d6e8","type":"text","text":"The World’s Edge","x":-80,"y":-400,"width":250,"height":60},
+		{"id":"7be13bb7b8ca5c76","type":"text","text":"Игра в 2 словах: ГГ ищет край мира - место где прекрасно видно звезды","x":-145,"y":-280,"width":380,"height":60},
+		{"id":"a5e9893b646d8d82","type":"file","file":"maxresdefault.jpg","x":106,"y":52,"width":827,"height":465},
+		{"id":"77be66c86e6f036e","type":"text","text":"Визуальный стиль - убрать пиксельность, при этом сделать лоу поли стиль","x":310,"y":-88,"width":419,"height":57},
+		{"id":"5d9367701d128eb7","type":"file","file":"images.jpg","x":-660,"y":205,"width":315,"height":177},
+		{"id":"3f4d8e6599147dce","type":"file","file":"images-1.jpg","x":-660,"y":28,"width":315,"height":177},
+		{"id":"62837ea68a0d4329","type":"text","text":"Финал игры","x":-627,"y":-88,"width":250,"height":60},
+		{"id":"4a21662b55dde62a","type":"text","text":"По рекламе повторить рекламу A short hike","x":440,"y":-600,"width":250,"height":60}
+	],
+	"edges":[]
+}
