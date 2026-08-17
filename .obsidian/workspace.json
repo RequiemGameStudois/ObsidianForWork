@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74234e7f7cc4ba88",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "e7d1da13aea0a8c3",
             "type": "leaf",
             "state": {
@@ -201,24 +191,29 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "74234e7f7cc4ba88",
+  "active": "1b0b5405a82eec48",
   "lastOpenFiles": [
-    "MARI/М. Систематизация рабочего процесса.md",
-    "Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
-    "Fucking Experiments/Без названия.base",
-    "Fucking Experiments/README.md",
-    "Fucking Experiments/Добро пожаловать и идите нахуй.md",
-    "Проекты/The World’s Edge/The World’s Edge.canvas",
-    "Проекты/The World’s Edge",
-    "Fucking Experiments/Excalidraw",
-    "Fucking Experiments",
+    "Без названия.canvas",
     "План по захвату Польши.md",
+    "создайте ссылку.md",
+    "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
+    "ARMY/Fucking Experiments/Без названия.base",
+    "ARMY/Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
+    "Проекты/The World’s Edge/The World’s Edge.canvas",
+    "Проекты/Pitch Black/TODO/TODO.md",
+    "Проекты/Pitch Black/TODO/Без названия.canvas",
+    "Проекты/DeliveryGame/TODO/TODO.md",
+    "Проекты/DeliveryGame/TODO/Без названия.canvas",
+    "MARI/М. Систематизация рабочего процесса.md",
+    "2026-08-17.md",
+    "ARMY/Fucking Experiments/README.md",
+    "Проекты/The World’s Edge",
+    "ARMY/Fucking Experiments/Excalidraw",
+    "ARMY/Fucking Experiments",
     "Общие/Без названия.md",
     "WorkAMRYandR34MARISHKA/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
     "WorkAMRYandR34MARISHKA/Без названия.base",
-    "Без названия.canvas",
     "Общие/Ассеты/Ассеты К..canvas",
-    "создайте ссылку.md",
     "ARMY",
     "MARI",
     "Общие",
