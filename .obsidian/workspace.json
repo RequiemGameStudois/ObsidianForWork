@@ -11,17 +11,22 @@
             "id": "74234e7f7cc4ba88",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e7d1da13aea0a8c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Общие/Ассеты/Ассеты К..canvas",
-                "viewState": {
-                  "x": -4241.882019133942,
-                  "y": 3050.826863553013,
-                  "zoom": -3.6084406542787995
-                }
+                "file": "MARI/М. Систематизация рабочего процесса.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ассеты К."
+              "icon": "excalidraw-icon",
+              "title": "М. Систематизация рабочего процесса"
             }
           }
         ]
@@ -198,13 +203,26 @@
   },
   "active": "74234e7f7cc4ba88",
   "lastOpenFiles": [
+    "MARI/М. Систематизация рабочего процесса.md",
+    "Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
+    "Fucking Experiments/Без названия.base",
+    "Fucking Experiments/README.md",
+    "Fucking Experiments/Добро пожаловать и идите нахуй.md",
+    "Проекты/The World’s Edge/The World’s Edge.canvas",
+    "Проекты/The World’s Edge",
+    "Fucking Experiments/Excalidraw",
+    "Fucking Experiments",
+    "План по захвату Польши.md",
+    "Общие/Без названия.md",
+    "WorkAMRYandR34MARISHKA/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
+    "WorkAMRYandR34MARISHKA/Без названия.base",
+    "Без названия.canvas",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "создайте ссылку.md",
     "ARMY",
     "MARI",
     "Общие",
-    "Без названия.canvas",
-    "Общие/Ассеты/Ассеты К..canvas",
     "Untitled Kanban.md",
-    "WorkAMRYandR34MARISHKA/Без названия.base",
     "WorkAMRYandR34MARISHKA/Добро пожаловать и идите нахуй.md",
     "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
     "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
@@ -219,8 +237,6 @@
     "Excalidraw/Ассеты.md",
     "Общие/Ассеты/Изображения",
     "Общие/Ассеты",
-    "Excalidraw/Drawing 2026-05-30 13.56.42.excalidraw.md",
-    "Ассеты.base",
-    "Excalidraw"
+    "Excalidraw/Drawing 2026-05-30 13.56.42.excalidraw.md"
   ]
 }
