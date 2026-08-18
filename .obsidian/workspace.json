@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "М. Систематизация рабочего процесса"
             }
+          },
+          {
+            "id": "f40a1c5d3838cb77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "MARI/М. Систематизация рабочего процесса.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "М. Систематизация рабочего процесса"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -191,11 +206,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b0b5405a82eec48",
+  "active": "f40a1c5d3838cb77",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "MARI/Список идей игр на разработку.md",
+    "MARI/М. Систематизация рабочего процесса.md",
     "План по захвату Польши.md",
     "создайте ссылку.md",
+    "Excalidraw/Drawing 2026-08-18 07.29.35.excalidraw.md",
+    "Excalidraw",
+    "WorkAMRYandR34MARISHKA/2026-08-17.md",
+    "MARI/На 18.08.canvas",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "Без названия 1.canvas",
+    "WorkAMRYandR34MARISHKA/Drawing 2026-08-17 15.57.32.excalidraw.md",
+    "WorkAMRYandR34MARISHKA/Без названия 1.canvas",
+    "WorkAMRYandR34MARISHKA/Без названия.md",
+    "Общие/Ассеты/Изображения/4bfc6e02-fc02-4185-bf32-e63fb3b767f3.webp",
     "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
     "ARMY/Fucking Experiments/Без названия.base",
     "ARMY/Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
@@ -204,8 +230,6 @@
     "Проекты/Pitch Black/TODO/Без названия.canvas",
     "Проекты/DeliveryGame/TODO/TODO.md",
     "Проекты/DeliveryGame/TODO/Без названия.canvas",
-    "MARI/М. Систематизация рабочего процесса.md",
-    "2026-08-17.md",
     "ARMY/Fucking Experiments/README.md",
     "Проекты/The World’s Edge",
     "ARMY/Fucking Experiments/Excalidraw",
@@ -213,7 +237,6 @@
     "Общие/Без названия.md",
     "WorkAMRYandR34MARISHKA/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
     "WorkAMRYandR34MARISHKA/Без названия.base",
-    "Общие/Ассеты/Ассеты К..canvas",
     "ARMY",
     "MARI",
     "Общие",
@@ -228,10 +251,8 @@
     "Общие/Ассеты/Изображения/c76a6233-ab9e-4832-a867-eb78799e1320.webp",
     "Общие/Ассеты/Изображения/bf4b4b8c-d600-4342-a32d-84c42b4004ba.webp",
     "Общие/Ассеты/Изображения/c5f44ab6-7ad2-441a-bfe6-dd56a4d38b13 1.webp",
-    "Общие/Ассеты/Изображения/c2472e73-161e-49b1-83d8-7eec7d3f794f.webp",
     "Excalidraw/Ассеты.md",
     "Общие/Ассеты/Изображения",
-    "Общие/Ассеты",
     "Excalidraw/Drawing 2026-05-30 13.56.42.excalidraw.md"
   ]
 }
