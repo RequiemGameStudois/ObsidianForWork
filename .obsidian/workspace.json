@@ -18,31 +18,7 @@
             }
           },
           {
-            "id": "09200e23cc608a60",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Игры в работу/Игры в работу чертеэ.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Игры в работу чертеэ"
-            }
-          },
-          {
             "id": "9e979f9025da4246",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Игры в работу/Игры в работу чертеэ.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Игры в работу чертеэ"
-            }
-          },
-          {
-            "id": "a2ee9ec3c0713bfe",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -54,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -224,7 +201,6 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
       "obsidian-importer:Open Importer": false
     }
   },
