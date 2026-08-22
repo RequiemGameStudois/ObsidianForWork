@@ -23,14 +23,28 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Игры в работу/Игры в работу чертеэ.md"
+                "file": "Общие/Разработка SortToys/Игровой цикл.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Игры в работу чертеэ"
+              "title": "Игровой цикл"
+            }
+          },
+          {
+            "id": "ecfc9fa3554aece0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkAMRYandR34MARISHKA/2026-08-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-17"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,22 +218,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9e979f9025da4246",
+  "active": "ecfc9fa3554aece0",
   "lastOpenFiles": [
-    "Игры в работу/Игры в работу чертеэ.md",
-    "Игры в работу/Игры в работу.md",
-    "Игры в работу/Беглог.md",
-    "Игры в работу/Бэклог.md",
-    "Игры в работу",
-    "MARI/Список идей игр на разработку.md",
+    "WorkAMRYandR34MARISHKA/2026-08-22.md",
+    "WorkAMRYandR34MARISHKA/2026-08-21.md",
+    "WorkAMRYandR34MARISHKA/2026-08-17.md",
+    "Общие/Разработка SortToys/Основное.md",
+    "Общие/Разработка SortToys/Игровой цикл.md",
+    "Общие/Игры в работу/Игры в работу.md",
+    "Общие/Игры в работу/Беглог.md",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "Общие/Разработка SortToys/Без названия.canvas",
+    "Общие/Разработка SortToys",
     "План по захвату Польши.md",
     "создайте ссылку.md",
-    "Проекты/The World’s Edge/The World’s Edge.canvas",
+    "MARI/Список идей игр на разработку.md",
     "MARI/М. Систематизация рабочего процесса.md",
+    "Игры в работу/Бэклог.md",
+    "Общие/Игры в работу",
+    "Проекты/The World’s Edge/The World’s Edge.canvas",
     "Проекты/DeliveryGame/TODO/Без названия.canvas",
-    "Общие/Ассеты/Ассеты К..canvas",
     "Проекты/The World’s Edge/Дела по хуйне.md",
-    "WorkAMRYandR34MARISHKA/2026-08-17.md",
     "Excalidraw/Drawing 2026-08-18 07.29.35.excalidraw.md",
     "Excalidraw",
     "Проекты/DeliveryGame/TODO/TODO.md",
@@ -236,7 +255,6 @@
     "Fucking Experiments/Добро пожаловать и идите нахуй.md",
     "Проекты/The World’s Edge",
     "Fucking Experiments/Excalidraw",
-    "Fucking Experiments",
     "Общие/Без названия.md",
     "WorkAMRYandR34MARISHKA/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
     "Без названия.canvas",
@@ -252,7 +270,6 @@
     "Общие/Ассеты/Изображения/bf4b4b8c-d600-4342-a32d-84c42b4004ba.webp",
     "Общие/Ассеты/Изображения/c5f44ab6-7ad2-441a-bfe6-dd56a4d38b13 1.webp",
     "Общие/Ассеты/Изображения/c2472e73-161e-49b1-83d8-7eec7d3f794f.webp",
-    "Excalidraw/Ассеты.md",
-    "Excalidraw/Drawing 2026-05-30 13.56.42.excalidraw.md"
+    "Excalidraw/Ассеты.md"
   ]
 }
