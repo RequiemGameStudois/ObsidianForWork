@@ -18,18 +18,6 @@
             }
           },
           {
-            "id": "9e979f9025da4246",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Общие/Разработка SortToys/Игровой цикл.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Игровой цикл"
-            }
-          },
-          {
             "id": "ecfc9fa3554aece0",
             "type": "leaf",
             "state": {
@@ -57,18 +45,16 @@
             "id": "f62aae2056ff1811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-24.md",
-                "mode": "source",
-                "source": false
+                "file": "План по захвату Польши.md"
               },
-              "icon": "lucide-file",
-              "title": "2026-08-24"
+              "icon": "excalidraw-icon",
+              "title": "План по захвату Польши"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "7981b9102df01fcd",
@@ -244,21 +230,25 @@
   },
   "active": "f62aae2056ff1811",
   "lastOpenFiles": [
-    "Общие/Разработка WitchToys/Основное.md",
-    "Общие/Разработка WitchToys/Игровой цикл.md",
-    "Общие/Игры в работу/Игры в работу.md",
+    "создайте ссылку.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-26.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-24.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-25.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-23.md",
-    "MARI/М. Систематизация рабочего процесса.md",
     "MARI/М. Задачи WitchSort.md",
     "MARI/Список идей игр на разработку.md",
+    "Общие/Разработка WitchToys/Основное.md",
+    "Общие/Разработка WitchToys/Список объектов.md",
+    "Общие/Разработка WitchToys/Игровой цикл.md",
+    "MARI/М. Систематизация рабочего процесса.md",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-21.md",
+    "Общие/Игры в работу/Игры в работу.md",
+    "Общие/Игры в работу/Беглог.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-17.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-22.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-21.md",
-    "Общие/Список объектов.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август",
     "WorkAMRYandR34MARISHKA/Ежедневник",
-    "Общие/Игры в работу/Беглог.md",
     "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
     "ARMY/Fucking Experiments/Без названия.base",
     "WorkAMRYandR34MARISHKA/Проекты/Pitch Black/TODO/Без названия.canvas",
@@ -266,11 +256,9 @@
     "WorkAMRYandR34MARISHKA/Проекты/DeliveryGame/TODO/Без названия.canvas",
     "ARMY/Fucking Experiments/README.md",
     "Excalidraw",
-    "Общие/Ассеты/Ассеты К..canvas",
     "Общие/Разработка SortToys/Без названия.canvas",
     "Общие/Разработка WitchToys",
     "План по захвату Польши.md",
-    "создайте ссылку.md",
     "Игры в работу/Бэклог.md",
     "Общие/Игры в работу",
     "WorkAMRYandR34MARISHKA/Проекты/The World’s Edge/The World’s Edge.canvas",
@@ -283,8 +271,6 @@
     "Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
     "Fucking Experiments/Без названия.base",
     "Fucking Experiments/README.md",
-    "Fucking Experiments/Добро пожаловать и идите нахуй.md",
-    "Общие/Без названия.md",
     "Без названия.canvas",
     "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
     "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
