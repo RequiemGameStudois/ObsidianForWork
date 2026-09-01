@@ -21,12 +21,14 @@
             "id": "f62aae2056ff1811",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Общие/Разработка WitchToys/Основное.md"
+                "file": "ARMY/ProjectsTODO/Sort spell meow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Основное"
+              "icon": "lucide-file",
+              "title": "Sort spell meow"
             }
           }
         ],
@@ -192,7 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Создать новую доску": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -206,12 +208,14 @@
   },
   "active": "f62aae2056ff1811",
   "lastOpenFiles": [
+    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-31.md",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "ARMY/ProjectsTODO",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-30.md",
+    "Общие/Разработка WitchToys/Основное.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-27.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-26.md",
-    "Общие/Разработка WitchToys/Основное.md",
     "Общие/Разработка WitchToys/Список объектов.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-30.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-31.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-28.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-25.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-24.md",
@@ -236,7 +240,6 @@
     "WorkAMRYandR34MARISHKA/Ежедневник/Август",
     "WorkAMRYandR34MARISHKA/Ежедневник",
     "WorkAMRYandR34MARISHKA/Проекты/Pitch Black/TODO/Без названия.canvas",
-    "WorkAMRYandR34MARISHKA/Проекты/DeliveryGame/TODO/TODO.md",
     "WorkAMRYandR34MARISHKA/Проекты/DeliveryGame/TODO/Без названия.canvas",
     "Excalidraw",
     "Общие/Разработка SortToys/Без названия.canvas",
@@ -246,7 +249,6 @@
     "ARMY/Fucking Experiments/Excalidraw",
     "ARMY/Fucking Experiments",
     "ARMY",
-    "Fucking Experiments/Без названия.base",
     "Без названия.canvas",
     "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
     "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
