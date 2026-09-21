@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-02.md",
+                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-02"
+              "title": "2026-09-21"
             }
           }
         ],
@@ -57,7 +57,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -194,46 +194,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f62aae2056ff1811",
+  "active": "1b0b5405a82eec48",
   "lastOpenFiles": [
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-03.md",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-21.md",
+    "ARMY/Fucking Experiments/Заготовка для ежедневных заметок.md",
+    "Pasted image 20260921101345.png",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-20.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-02.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-03.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-04.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-05.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-06.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-07.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-08.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-09.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-10.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-11.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-12.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-13.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-14.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-15.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-16.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-17.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-18.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-19.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-31.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-28.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-26.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-27.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-06.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-02.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-10.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-13.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-15.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-17.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-16.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-14.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-12.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-11.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-09.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-08.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-05.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-19.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-20.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-18.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-07.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-04.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-09-01.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-25.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-30.md",
     "Общие/Ассеты/Ассеты К..canvas",
     "ARMY/ProjectsTODO",
     "ARMY/Fucking Experiments/Без названия.base",
@@ -248,7 +250,6 @@
     "WorkAMRYandR34MARISHKA/Проекты/The World’s Edge/The World’s Edge.canvas",
     "ARMY/Fucking Experiments/Excalidraw",
     "ARMY/Fucking Experiments",
-    "ARMY",
     "Без названия.canvas",
     "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
     "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
@@ -258,7 +259,6 @@
     "Общие/Ассеты/Изображения/ceebd85a-1b91-409d-9364-05463377be25.webp",
     "Общие/Ассеты/Изображения/c76a6233-ab9e-4832-a867-eb78799e1320.webp",
     "Общие/Ассеты/Изображения/bf4b4b8c-d600-4342-a32d-84c42b4004ba.webp",
-    "Общие/Ассеты/Изображения/c5f44ab6-7ad2-441a-bfe6-dd56a4d38b13 1.webp",
-    "Общие/Ассеты/Изображения/c2472e73-161e-49b1-83d8-7eec7d3f794f.webp"
+    "Общие/Ассеты/Изображения/c5f44ab6-7ad2-441a-bfe6-dd56a4d38b13 1.webp"
   ]
 }
