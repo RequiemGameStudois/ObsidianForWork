@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-21.md",
+                "file": "ARMY/ProjectsTODO/Sort spell meow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-21"
+              "title": "Sort spell meow"
             }
           }
         ],
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ARMY/ProjectsTODO/Sort spell meow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks"
             }
           },
           {
@@ -189,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,14 +206,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b0b5405a82eec48",
+  "active": "f62aae2056ff1811",
   "lastOpenFiles": [
-    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-25.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-24.md",
+    "ARMY/ProjectsTODO/План трейлера.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-23.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-22.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-21.md",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
     "ARMY/Fucking Experiments/Заготовка для ежедневных заметок.md",
     "Pasted image 20260921101345.png",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-20.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-02.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-03.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-04.md",
@@ -230,12 +235,7 @@
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-15.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-16.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-17.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-18.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-19.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-31.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-28.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Август/2026-08-26.md",
     "Общие/Ассеты/Ассеты К..canvas",
     "ARMY/ProjectsTODO",
     "ARMY/Fucking Experiments/Без названия.base",
