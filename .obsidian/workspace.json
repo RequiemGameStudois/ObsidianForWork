@@ -21,17 +21,14 @@
             "id": "f62aae2056ff1811",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Общие/Ассеты/Ассеты К..canvas",
-                "viewState": {
-                  "x": -8036.308105502616,
-                  "y": 2509.6052925975528,
-                  "zoom": -2.3333333333333326
-                }
+                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ассеты К."
+              "icon": "lucide-file",
+              "title": "2026-10-11"
             }
           }
         ],
@@ -60,7 +57,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -110,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,65 +190,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-importer:Open Importer": false
     }
   },
   "active": "f62aae2056ff1811",
   "lastOpenFiles": [
-    "Sort Them Ducks.md",
-    "WorkAMRYandR34MARISHKA/Проекты/Pitch Black/TODO/TODO.md",
-    "WorkAMRYandR34MARISHKA/Проекты/The World’s Edge/The World’s Edge.canvas",
-    "WorkAMRYandR34MARISHKA/Проекты/DeliveryGame/TODO/TODO.md",
-    "WorkAMRYandR34MARISHKA/Проекты/Pitch Black/TODO/Без названия.canvas",
-    "MARI/Список идей игр на разработку.md",
-    "MARI/М. Задачи WitchSort.md",
-    "MARI/М. Систематизация рабочего процесса.md",
-    "ARMY/План по захвату Польши 1.md",
-    "ARMY/План по захвату Польши.md",
-    "ARMY/ProjectsTODO/Sort spell meow.md",
-    "ARMY/Fucking Experiments/README.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-10.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-11.md",
     "ARMY/Fucking Experiments/Заготовка для ежедневных заметок.md",
     "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
+    "ARMY/План по захвату Польши 1.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-07.md",
+    "ARMY/ProjectsTODO/LeafItInYourself.md",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "ARMY/ProjectsTODO/План трейлера.md",
+    "ARMY/План по захвату Польши.md",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "Общие/Разработка WitchToys/Игровой цикл.md",
+    "Общие/Разработка WitchToys/Основное.md",
+    "Общие/Разработка WitchToys/Список объектов.md",
     "ARMY/Fucking Experiments/Без названия.base",
     "ARMY/Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
-    "Общие/Игры в работу/Игры в работу.md",
+    "Sort Them Ducks.md",
+    "MARI/Список идей игр на разработку.md",
+    "MARI/М. Систематизация рабочего процесса.md",
+    "MARI/М. Задачи WitchSort.md",
     "Общие/Игры в работу/Беглог.md",
-    "Общие/Ассеты/Ассеты К..canvas",
-    "Общие/Разработка WitchToys/Список объектов.md",
-    "Общие/Разработка WitchToys/Основное.md",
-    "Общие/Разработка WitchToys/Игровой цикл.md",
+    "Общие/Игры в работу/Игры в работу.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-25.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-24.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-23.md",
+    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-22.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-21.md",
     "Pasted image 20260921101345.png",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-20.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-02.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-03.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-04.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-05.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-06.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь",
     "ARMY/ProjectsTODO",
     "WorkAMRYandR34MARISHKA/Ежедневник/Август",
     "WorkAMRYandR34MARISHKA/Ежедневник",
+    "WorkAMRYandR34MARISHKA/Проекты/Pitch Black/TODO/Без названия.canvas",
     "WorkAMRYandR34MARISHKA/Проекты/DeliveryGame/TODO/Без названия.canvas",
     "Excalidraw",
     "Общие/Разработка SortToys/Без названия.canvas",
     "Общие/Разработка WitchToys",
     "Общие/Игры в работу",
+    "WorkAMRYandR34MARISHKA/Проекты/The World’s Edge/The World’s Edge.canvas",
     "ARMY/Fucking Experiments/Excalidraw",
     "ARMY/Fucking Experiments",
     "Без названия.canvas",
