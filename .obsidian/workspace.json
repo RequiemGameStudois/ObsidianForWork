@@ -35,12 +35,17 @@
             "id": "407d80e6a9a44046",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "MARI/М. Игра про овец.md"
+                "file": "Общие/Маркетинг/Сообщества Реддита.canvas",
+                "viewState": {
+                  "x": -182.47428964652886,
+                  "y": 2210.4691205305903,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "М. Игра про овец"
+              "icon": "lucide-layout-dashboard",
+              "title": "Сообщества Реддита"
             }
           }
         ],
@@ -219,14 +224,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "407d80e6a9a44046",
+  "active": "1b0b5405a82eec48",
   "lastOpenFiles": [
-    "Pasted Image 20261030143915_904.png",
-    "Pasted Image 20261030143827_000.png",
-    "Pasted Image 20261030143622_305.png",
-    "Pasted Image 20261030143026_742.png",
-    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "Общие/Маркетинг",
+    "MARI/Pasted Image 20261030143915_904.png",
+    "Общие/Маркетинг/Сообщества Реддита.canvas",
+    "MARI/Pasted Image 20261030143026_742.png",
+    "Sort Them Ducks.md",
+    "MARI/Pasted Image 20261030143827_000.png",
     "MARI/М. Игра про овец.md",
+    "MARI/Pasted Image 20261030143622_305.png",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
     "ARMY/ProjectsTODO/LeafItInYourself.md",
     "ARMY/ProjectsTODO/План трейлера.md",
     "Общие/Разработка WitchToys/Список объектов.md",
@@ -235,7 +243,6 @@
     "MARI/М. Систематизация рабочего процесса.md",
     "MARI/Список идей игр на разработку.md",
     "MARI/М. Задачи WitchSort.md",
-    "Sort Them Ducks.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-13.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-11.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-10.md",
@@ -265,13 +272,11 @@
     "Общие/Игры в работу",
     "WorkAMRYandR34MARISHKA/Проекты/The World’s Edge/The World’s Edge.canvas",
     "ARMY/Fucking Experiments/Excalidraw",
-    "ARMY/Fucking Experiments",
     "Без названия.canvas",
     "Общие/Ассеты/Изображения/fe998508-63e3-41dc-9195-b00128b7af36.webp",
     "Общие/Ассеты/Изображения/e88c9bbd-8e46-470b-830c-b84db6ab36d0.webp",
     "Общие/Ассеты/Изображения/e16e6a57-d277-4cd0-a978-f1e19396aa2b.webp",
     "Общие/Ассеты/Изображения/dc88c9b3-524d-4212-8702-464982c07d91.webp",
-    "Общие/Ассеты/Изображения/d5139344-ec35-4ff6-9a1c-7170e2c120e5.webp",
-    "Общие/Ассеты/Изображения/ceebd85a-1b91-409d-9364-05463377be25.webp"
+    "Общие/Ассеты/Изображения/d5139344-ec35-4ff6-9a1c-7170e2c120e5.webp"
   ]
 }
