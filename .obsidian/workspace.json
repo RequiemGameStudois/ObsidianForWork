@@ -35,17 +35,14 @@
             "id": "407d80e6a9a44046",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Общие/Маркетинг/Сообщества Реддита.canvas",
-                "viewState": {
-                  "x": -182.47428964652886,
-                  "y": 2210.4691205305903,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Общие/Игры в работу/Игры в работу.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Сообщества Реддита"
+              "icon": "lucide-file",
+              "title": "Игры в работу"
             }
           }
         ],
@@ -74,7 +71,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -212,53 +209,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b0b5405a82eec48",
+  "active": "407d80e6a9a44046",
   "lastOpenFiles": [
+    "Общие/Игры в работу/Беглог.md",
+    "ARMY/План по захвату Польши 1.md",
+    "ARMY/План по захвату Польши.md",
+    "ARMY/ProjectsTODO/План трейлера.md",
+    "ARMY/ProjectsTODO/Sort spell meow.md",
+    "ARMY/ProjectsTODO/LeafItInYourself.md",
+    "ARMY/Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
+    "ARMY/Fucking Experiments/Excalidraw/Marketing.md",
+    "ARMY/Fucking Experiments/README.md",
+    "ARMY/Fucking Experiments/Без названия.base",
+    "ARMY/Fucking Experiments/Заготовка для ежедневных заметок.md",
+    "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
+    "Общие/Ассеты/Ассеты К..canvas",
+    "Общие/Игры в работу/Игры в работу.md",
+    "Общие/Маркетинг/Сообщества Реддита.canvas",
+    "Общие/Разработка WitchToys/Игровой цикл.md",
+    "Общие/Разработка WitchToys/Основное.md",
+    "Общие/Разработка WitchToys/Список объектов.md",
     "Общие/Маркетинг",
     "MARI/Pasted Image 20261030143915_904.png",
-    "Общие/Маркетинг/Сообщества Реддита.canvas",
     "MARI/Pasted Image 20261030143026_742.png",
     "Sort Them Ducks.md",
     "MARI/Pasted Image 20261030143827_000.png",
     "MARI/М. Игра про овец.md",
     "MARI/Pasted Image 20261030143622_305.png",
-    "ARMY/ProjectsTODO/Sort spell meow.md",
-    "ARMY/ProjectsTODO/LeafItInYourself.md",
-    "ARMY/ProjectsTODO/План трейлера.md",
-    "Общие/Разработка WitchToys/Список объектов.md",
-    "Общие/Разработка WitchToys/Основное.md",
-    "Общие/Разработка WitchToys/Игровой цикл.md",
     "MARI/М. Систематизация рабочего процесса.md",
     "MARI/Список идей игр на разработку.md",
     "MARI/М. Задачи WitchSort.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-13.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-11.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-10-10.md",
-    "ARMY/Fucking Experiments/Заготовка для ежедневных заметок.md",
-    "ARMY/Fucking Experiments/Добро пожаловать и идите нахуй.md",
-    "ARMY/План по захвату Польши 1.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-07.md",
-    "ARMY/План по захвату Польши.md",
-    "Общие/Ассеты/Ассеты К..canvas",
-    "ARMY/Fucking Experiments/Без названия.base",
-    "ARMY/Fucking Experiments/Excalidraw/Drawing 2026-06-19 16.38.32.excalidraw.md",
-    "Общие/Игры в работу/Беглог.md",
-    "Общие/Игры в работу/Игры в работу.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-01.md",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-25.md",
-    "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь/2026-09-24.md",
     "Pasted image 20260921101345.png",
     "WorkAMRYandR34MARISHKA/Ежедневник/Сентябрь",
     "ARMY/ProjectsTODO",
